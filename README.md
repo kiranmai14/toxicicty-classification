@@ -1,6 +1,4 @@
 # toxicicty-classification
-
-######################################################
 unintended bias in toxicity classification
 With continuous increase in available data, there is a pressing need to organize it and modern classification problems often involve the prediction of multiple labels simultaneously associated with a single instance. Known as Multi-Label Classification, it is one such task which is omnipresent in many real world problems.
 
